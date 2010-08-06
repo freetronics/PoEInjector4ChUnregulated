@@ -12,10 +12,10 @@ UsedLibrary="/home/jon/eagle-5.9.0/lbr/rcl.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="361 73 1145 919"
+Loc="438 49 1222 895"
 State=2
 Number=0
 
 [Desktop]
-Screen="3280 1051"
+Screen="1600 900"
 Window="Win_1"
