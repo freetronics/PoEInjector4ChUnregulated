@@ -19,7 +19,7 @@ Features:
 
 More information is available at:
 
-  http://www.freetronics.com/poe-injector-4ch-unreg
+  http://www.freetronics.com/poe-injector-4ch
 
 The "docs" folder within this repository includes a handy copy of the
 schematic in PDF format and image(s) of the pcb.
