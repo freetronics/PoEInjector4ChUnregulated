@@ -1,5 +1,5 @@
 [Eagle]
-Version="05 09 00"
+Version="05 10 00"
 Platform="Linux"
 Serial="62191E841E-LSR-WLM-1EL"
 Globals="Globals"
@@ -7,15 +7,17 @@ Desktop="Desktop"
 
 [Globals]
 AutoSaveProject=1
+UsedLibrary="/home/jon/eagle-5.10.0/lbr/freetronics-jon.1.lbr"
+UsedLibrary="/home/jon/eagle-5.10.0/lbr/freetronics-jon.lbr"
 UsedLibrary="/home/jon/eagle-5.9.0/lbr/freetronics-2.lbr"
 UsedLibrary="/home/jon/eagle-5.9.0/lbr/rcl.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="438 49 1222 895"
+Loc="428 106 1212 952"
 State=2
 Number=0
 
 [Desktop]
-Screen="1600 900"
+Screen="3280 1051"
 Window="Win_1"
